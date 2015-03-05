@@ -8,9 +8,8 @@ With optional argument (BTC amount), also shows equivalent values in USD and EUR
 
 Examples:
 
-<code>
-./bq.py<br />
-./bq.py 0.00272223
-</code>
+<code>./bq.py</code>
+
+<code>./bq.py 0.00272223</code>
 
 Many thanks to <code>http://blockr.io</code> and <code>http://rate-exchange.appspot.com</code> !
